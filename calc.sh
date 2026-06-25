@@ -6,3 +6,5 @@
 #
 #  sub two numbers 
 #  9-1=8
+#
+#  hi this NR 
